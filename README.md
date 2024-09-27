@@ -2,10 +2,6 @@
 <h3 align="center">Desarrollador FullStack</h3>
 <p align="center">Dedicado a innovar y crear soluciones que desafían lo convencional y abren nuevas posibilidades.</p>
 
-<p align="center">
-  <img src="https://i.postimg.cc/DZqY3kps/logorecortado.png" alt="logo" width="150px" />
-</p>
-
 - ⛩️ Estudiante de Ingeniería Informática en la [Universidad de Santiago de Chile (Usach)](https://usach.cl)
 - 🔭 Actualmente trabajo de manera independiente como freelancer.
 - 🌱 Me encuentro constantemente descubriendo nuevas tecnologías.
